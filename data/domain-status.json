@@ -1,0 +1,9 @@
+{
+  "lastUpdated": "2026-02-10T10:36:06.480Z",
+  "domainStatuses": {
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.18.0、HuggingFace Transformers v5.1.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Vision、Agent、CAPTCHA、Robustness。",
+    "lang": "各语言最新稳定版：Rust 1.93.0（2026-01-22）、Node.js v25.6.0（2026-02-03）。Rust Blog 近期文章：Announcing Rust 1.93.0、crates.io: development update。Python Blog 近期文章：Python 3.14.3 and 3.13.12 are now available!、Python 3.15.0 alpha 5 (yes, another alpha!)。Go Blog 近期文章：Results from the 2025 Go Developer Survey、Go’s Sweet 16。",
+    "quantum": "近期学术研究聚焦：Quantum、Entangle、Simulation、Sensing、Hybrid。最新论文涵盖：\"Hybrid Method of Efficient Simulation of…\"、\"Cascaded Optomechanical Sensing for Smal…\"、\"Long distance quantum illumination and r…\"等。",
+    "robot": "学术热点：Manipulation、VLA、Reinforcement、Digital Twin。代表性论文：\"TwinRL-VLA: Digital Twin-Driven Reinforcement…\"、\"$χ_{0}$: Resource-Aware Robust Manipulation v…\"。"
+  }
+}

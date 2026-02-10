@@ -1,0 +1,11 @@
+{
+  "name": "tech-progress-dashboard",
+  "version": "1.0.0",
+  "description": "科技前沿进展汇总 Dashboard — 自动更新",
+  "scripts": {
+    "fetch": "node fetch-data.js"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}

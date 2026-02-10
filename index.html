@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="2025-2026 七大科技领域进展汇总：AI、自动驾驶、编程语言、量子计算、人形机器人、航天科技、区块链/Web3 的突破性进展与前沿趋势">
+  <title>科技前沿 — 2025-2026 全球科技进展汇总</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- 背景动画 -->
+  <div class="bg-animation">
+    <div class="orb"></div>
+    <div class="orb"></div>
+    <div class="orb"></div>
+  </div>
+
+  <div class="container">
+    <!-- Hero -->
+    <section class="hero" id="hero">
+      <div class="hero__badge">
+        <span class="dot"></span>
+        实时追踪 · 七大领域
+      </div>
+      <h1 class="hero__title">科技前沿进展全景</h1>
+      <p class="hero__subtitle">从人工智能到量子计算，从自动驾驶到星际探索——一站式掌握 2025-2026 年全球科技突破与趋势</p>
+      <div class="hero__date" id="hero-date">最后更新：2026-02-10</div>
+    </section>
+
+    <!-- 统计卡片 -->
+    <div class="stats-row" id="stats-row"></div>
+
+    <!-- 筛选栏 -->
+    <div class="filter-bar" id="filter-bar">
+      <button class="filter-btn active" data-filter="all">全部领域</button>
+      <button class="filter-btn" data-filter="ai">🧠 人工智能</button>
+      <button class="filter-btn" data-filter="driving">🚗 自动驾驶</button>
+      <button class="filter-btn" data-filter="lang">💻 编程语言</button>
+      <button class="filter-btn" data-filter="quantum">⚛️ 量子计算</button>
+      <button class="filter-btn" data-filter="robot">🦾 人形机器人</button>
+      <button class="filter-btn" data-filter="space">🚀 航天科技</button>
+      <button class="filter-btn" data-filter="blockchain">⛓️ 区块链</button>
+    </div>
+
+    <!-- 领域卡片 -->
+    <div class="cards-grid" id="cards-grid"></div>
+
+    <!-- 里程碑时间线 -->
+    <section class="milestones-section">
+      <h2 class="section-title">📅 关键里程碑时间线</h2>
+      <div class="timeline" id="timeline"></div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>数据来源：GitHub API · arXiv 论文 · 官方博客 RSS · 公开科技资讯</p>
+      <p style="margin-top: 6px; opacity: 0.6;">每周自动更新 · Built with care ✨</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
