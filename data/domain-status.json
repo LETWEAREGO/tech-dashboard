@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-02-22T01:48:34.527Z",
+  "lastUpdated": "2026-03-01T01:54:50.975Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.21.0、HuggingFace Transformers v5.2.0、PyTorch v2.10.0。学术前沿聚焦方向：Diffusion。",
-    "lang": "各语言最新稳定版：Rust 1.93.1（2026-02-12）、Node.js v25.6.1（2026-02-10）。Rust Blog 近期文章：Rust participates in Google Summer of Code 2026、crates.io: an update to the malicious crate notification policy。Python Blog 近期文章：Join the Python Security Response Team!、Python 3.15.0 alpha 6。Go Blog 近期文章：Using go fix to modernize Go code、Go 1.26 is released。",
-    "quantum": "近期学术研究聚焦：Quantum、Entangle。最新论文涵盖：\"A Study of Entanglement and Ansatz Expre…\"、\"Benchmarking quantum phase-space methods…\"、\"Exotic critical states as fractional Fer…\"等。",
-    "robot": "学术热点：VLA。代表性论文：\"When Vision Overrides Language: Evaluating an…\"、\"Graph Neural Model Predictive Control for Hig…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.24.0、HuggingFace Transformers v5.2.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Vision、Multimodal、Generation。",
+    "lang": "各语言最新稳定版：Rust 1.93.1（2026-02-12）、Node.js v25.7.0（2026-02-24）。Rust Blog 近期文章：Rust debugging survey 2026、Rust participates in Google Summer of Code 2026。Go Blog 近期文章：Allocating on the Stack、Using go fix to modernize Go code。",
+    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"Butterfly Echo Protocol for Axis-Agnosti…\"、\"Analogue many-body gravitating quantum s…\"、\"Copy-cup Gates in Tensor Products of Gro…\"等。",
+    "robot": "学术热点：Digital Twin。代表性论文：\"Evaluating Zero-Shot and One-Shot Adaptation …\"、\"Interface-Aware Trajectory Reconstruction of …\"。"
   }
 }
