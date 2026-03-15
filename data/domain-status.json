@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-01T01:54:50.975Z",
+  "lastUpdated": "2026-03-15T01:58:36.028Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.24.0、HuggingFace Transformers v5.2.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Vision、Multimodal、Generation。",
-    "lang": "各语言最新稳定版：Rust 1.93.1（2026-02-12）、Node.js v25.7.0（2026-02-24）。Rust Blog 近期文章：Rust debugging survey 2026、Rust participates in Google Summer of Code 2026。Go Blog 近期文章：Allocating on the Stack、Using go fix to modernize Go code。",
-    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"Butterfly Echo Protocol for Axis-Agnosti…\"、\"Analogue many-body gravitating quantum s…\"、\"Copy-cup Gates in Tensor Products of Gro…\"等。",
-    "robot": "学术热点：Digital Twin。代表性论文：\"Evaluating Zero-Shot and One-Shot Adaptation …\"、\"Interface-Aware Trajectory Reconstruction of …\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.28.0、HuggingFace Transformers v5.3.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Diffusion、Multimodal。",
+    "lang": "各语言最新稳定版：Rust 1.94.0（2026-03-05）、Node.js v25.8.1（2026-03-11）。Rust Blog 近期文章：Call for Testing: Build Dir Layout v2、Announcing rustup 1.29.0。Python Blog 近期文章：Python 3.15.0 alpha 7、CPython: 36 Years of Source Code。Go Blog 近期文章：//go:fix inline and the source-level inliner、Allocating on the Stack。",
+    "quantum": "近期学术研究聚焦：Quantum、Photon。最新论文涵盖：\"Onset of Ergodicity Across Scales on a D…\"、\"Transition from Statistical to Hardware-…\"、\"Thermalisation as Diffusion in Hilbert S…\"等。",
+    "robot": "学术热点：Manipulation、Humanoid。代表性论文：\"$Ψ_0$: An Open Foundation Model Towards Unive…\"、\"HumDex:Humanoid Dexterous Manipulation Made E…\"。"
   }
 }
