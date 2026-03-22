@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T01:58:36.028Z",
+  "lastUpdated": "2026-03-22T01:52:12.841Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.28.0、HuggingFace Transformers v5.3.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Diffusion、Multimodal。",
-    "lang": "各语言最新稳定版：Rust 1.94.0（2026-03-05）、Node.js v25.8.1（2026-03-11）。Rust Blog 近期文章：Call for Testing: Build Dir Layout v2、Announcing rustup 1.29.0。Python Blog 近期文章：Python 3.15.0 alpha 7、CPython: 36 Years of Source Code。Go Blog 近期文章：//go:fix inline and the source-level inliner、Allocating on the Stack。",
-    "quantum": "近期学术研究聚焦：Quantum、Photon。最新论文涵盖：\"Onset of Ergodicity Across Scales on a D…\"、\"Transition from Statistical to Hardware-…\"、\"Thermalisation as Diffusion in Hilbert S…\"等。",
-    "robot": "学术热点：Manipulation、Humanoid。代表性论文：\"$Ψ_0$: An Open Foundation Model Towards Unive…\"、\"HumDex:Humanoid Dexterous Manipulation Made E…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.29.0、HuggingFace Transformers v5.3.0、PyTorch v2.10.0。学术前沿聚焦方向：LLM、Generation。",
+    "lang": "各语言最新稳定版：Rust 1.94.0（2026-03-05）、Node.js v25.8.1（2026-03-11）。Rust Blog 近期文章：Security advisory for Cargo、What we heard about Rust's challenges, and how we can address them。Python Blog 近期文章：Python 3.15.0 alpha 7、CPython: 36 Years of Source Code。Go Blog 近期文章：//go:fix inline and the source-level inliner、Allocating on the Stack。",
+    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"The commutant of fermionic Gaussian unit…\"、\"Quantum theory based on real numbers can…\"、\"Measurement-Induced Quantum Neural Netwo…\"等。",
+    "robot": "学术热点：Manipulation、VLA、Navigation。代表性论文：\"Generation Models Know Space: Unleashing Impl…\"、\"Not All Features Are Created Equal: A Mechani…\"。"
   }
 }
