@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T02:11:01.936Z",
+  "lastUpdated": "2026-04-26T02:13:51.735Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.32.0、HuggingFace Transformers v5.5.4、PyTorch v2.11.0。学术前沿聚焦方向：LLM、Vision、Agent、Multimodal、Generation。",
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.32.0、HuggingFace Transformers v5.6.2、PyTorch v2.11.0。学术前沿聚焦方向：LLM、Vision、Agent、Diffusion。",
     "lang": "各语言最新稳定版：Rust 1.95.0（2026-04-16）、Node.js v25.9.0（2026-04-01）。Rust Blog 近期文章：Announcing Rust 1.95.0、docs.rs: building fewer targets by default。Python Blog 近期文章：Rust for CPython Progress Update April 2026、Python 3.15.0a8, 3.14.4 and 3.13.13 are out!。Go Blog 近期文章：Type Construction and Cycle Detection、//go:fix inline and the source-level inliner。",
-    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"Heuristic Search for Minimum-Distance Up…\"、\"Ensembles of random quantum states tunab…\"、\"Super-Constant Weight Dicke States in Co…\"等。",
-    "robot": "代表性论文：\"Abstract Sim2Real through Approximate Informa…\"、\"R3D: Revisiting 3D Policy Learning\"。"
+    "quantum": "近期学术研究聚焦：Quantum、Simulation、Photon。最新论文涵盖：\"Subsystem-Resolved Spectral Theory for Q…\"、\"Algorithmic Locality via Provable Conver…\"、\"Dual-use quantum hardware for quantum re…\"等。",
+    "robot": "学术热点：Manipulation、VLA。代表性论文：\"Long-Horizon Manipulation via Trace-Condition…\"、\"VistaBot: View-Robust Robot Manipulation via …\"。"
   }
 }
