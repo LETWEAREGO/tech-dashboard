@@ -1,9 +1,8 @@
 {
-  "lastUpdated": "2026-05-03T02:30:10.493Z",
+  "lastUpdated": "2026-05-17T02:40:24.559Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.33.0、HuggingFace Transformers v5.7.0、PyTorch v2.11.0。学术前沿聚焦方向：LLM、Reinforcement、Multimodal。",
-    "lang": "各语言最新稳定版：Rust 1.95.0（2026-04-16）、Node.js v25.9.0（2026-04-01）。Rust Blog 近期文章：Raising the baseline for the `nvptx64-nvidia-cuda` target、Announcing Google Summer of Code 2026 selected projects。Python Blog 近期文章：Rust for CPython Progress Update April 2026、Python 3.15.0a8, 3.14.4 and 3.13.13 are out!。Go Blog 近期文章：Type Construction and Cycle Detection、//go:fix inline and the source-level inliner。",
-    "quantum": "近期学术研究聚焦：Quantum、Sensing。最新论文涵盖：\"Observation of Vinen turbulence during f…\"、\"Defending Quantum Classifiers against Ad…\"、\"Reorganizing Quantum Measurement Records…\"等。",
-    "robot": "学术热点：VLA。代表性论文：\"OmniRobotHome: A Multi-Camera Platform for Re…\"、\"LaST-R1: Reinforcing Action via Adaptive Phys…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.37.0、HuggingFace Transformers v5.8.1、PyTorch v2.12.0。学术前沿聚焦方向：LLM、Agent、Multimodal、Generation。",
+    "lang": "各语言最新稳定版：Rust 1.95.0（2026-04-16）、Node.js v26.1.0（2026-05-07）。Rust Blog 近期文章：Rust is participating in Outreachy、Raising the baseline for the `nvptx64-nvidia-cuda` target。Python Blog 近期文章：Python 3.14.5 is out!、Python 3.15.0 beta 1 is here!。Go Blog 近期文章：Type Construction and Cycle Detection、//go:fix inline and the source-level inliner。",
+    "robot": "学术热点：VLA。代表性论文：\"Articraft: An Agentic System for Scalable Art…\"、\"Hand-in-the-Loop: Improving Dexterous VLA via…\"。"
   }
 }
