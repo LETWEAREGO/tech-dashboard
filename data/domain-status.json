@@ -1,9 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T03:31:55.407Z",
+  "lastUpdated": "2026-06-21T03:37:59.199Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.41.1、HuggingFace Transformers v5.12.0、PyTorch v2.12.0。学术前沿聚焦方向：LLM、Agent、Reinforcement。",
-    "lang": "各语言最新稳定版：Rust 1.96.0（2026-05-28）、Node.js v26.3.0（2026-06-01）。Rust Blog 近期文章：Launching the Rust Foundation Maintainers Fund、Announcing Rust 1.96.0。Python Blog 近期文章：Python 3.14.6 and 3.13.14 are now available!、Python 3.15.0 beta 2 is here!。Go Blog 近期文章：Introducing the pkg.go.dev API、Type Construction and Cycle Detection。",
-    "quantum": "近期学术研究聚焦：Quantum、Qubit、Entangle、Sensing。最新论文涵盖：\"Semi-Device-Independent Certification fo…\"、\"To Cool, or Not to Cool? Displacement Se…\"、\"Generalized two-qubit Hamiltonian for Pr…\"等。",
-    "robot": "学术热点：Manipulation、VLA。代表性论文：\"Mana: Dexterous Manipulation of Articulated T…\"、\"Improving Robotic Generalist Policies via Flo…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.43.0、HuggingFace Transformers v5.12.1、PyTorch v2.12.1。学术前沿聚焦方向：Agent、Diffusion。",
+    "lang": "各语言最新稳定版：Rust 1.96.0（2026-05-28）、Node.js v26.3.1（2026-06-18）。Rust Blog 近期文章：Launching the Rust Foundation Maintainers Fund、Announcing Rust 1.96.0。Python Blog 近期文章：Python 3.14.6 and 3.13.14 are now available!、Python 3.15.0 beta 2 is here!。Go Blog 近期文章：Introducing the pkg.go.dev API、Type Construction and Cycle Detection。",
+    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"Benchmark of quantum algorithms for grou…\"、\"Topological Codes Based on Space Groups\"、\"Near-Optimal Learning of Local Lindbladi…\"等。"
   }
 }
