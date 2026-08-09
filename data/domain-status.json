@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-26T02:21:27.496Z",
+  "lastUpdated": "2026-08-09T01:16:46.780Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v2.48.0、HuggingFace Transformers v5.14.1、PyTorch v2.13.0。学术前沿聚焦方向：Agent、Generation。",
-    "lang": "各语言最新稳定版：Rust 1.97.1（2026-07-16）、Node.js v26.5.0（2026-07-08）。Rust Blog 近期文章：Announcing Rust 1.97.1、crates.io: development update。Python Blog 近期文章：Get Ready: 2026 Python Packaging Council Nominations Opening Soon!、Python 3.15.0 beta 4 is here!。Go Blog 近期文章：Introducing the pkg.go.dev API、Type Construction and Cycle Detection。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v2.53.0、HuggingFace Transformers v5.14.1、PyTorch v2.13.0。学术前沿聚焦方向：Agent。",
+    "lang": "各语言最新稳定版：Rust 1.97.1（2026-07-16）、Node.js v26.7.0（2026-08-05）。Rust Blog 近期文章：Enabling the next iteration of the borrow checker on nightly、Announcing Rust 1.97.1。Python Blog 近期文章：Python 3.14.7 and 3.13.15 are now available!、Python 3.15.0 candidate 1 is here!。Go Blog 近期文章：Introducing the pkg.go.dev API、Type Construction and Cycle Detection。"
   }
 }
