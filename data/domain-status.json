@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-16T00:59:17.205Z",
+  "lastUpdated": "2026-08-23T01:00:51.798Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.1.0、HuggingFace Transformers v5.15.0、PyTorch v2.13.0。学术前沿聚焦方向：Agent。",
-    "lang": "各语言最新稳定版：Rust 1.97.1（2026-07-16）、Node.js v26.7.0（2026-08-05）。Rust Blog 近期文章：Enabling the next iteration of the borrow checker on nightly、Announcing Rust 1.97.1。Python Blog 近期文章：Announcing the Packaging Council Election Candidates for 2026!、Python 3.12.14, 3.11.16 and 3.10.21 are now available!。Go Blog 近期文章：Introducing the pkg.go.dev API、Type Construction and Cycle Detection。",
-    "quantum": "近期学术研究聚焦：Quantum、Qubit、Entangle、Simulation。最新论文涵盖：\"Experimental Quantum Key Distribution in…\"、\"Every PPT channel has finite entanglemen…\"、\"Clifford Circuit Synthesis for Distribut…\"等。",
-    "robot": "学术热点：Manipulation、VLA。代表性论文：\"HumanTracker: Towards Comprehensive and Human…\"、\"A Browser-Native Digital Test Range for Bench…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.3.1、HuggingFace Transformers v5.15.1、PyTorch v2.13.0。学术前沿聚焦方向：LLM、Agent。",
+    "lang": "各语言最新稳定版：Rust 1.98.0（2026-08-20）、Node.js v26.7.0（2026-08-05）。Rust Blog 近期文章：Enabling the next-generation trait solver on nightly、Supply chain attack on arrayref。Python Blog 近期文章：The Python documentation is now available in Russian!、Announcing the Packaging Council Election Candidates for 2026!。Go Blog 近期文章：Go 1.27 is released、Introducing the pkg.go.dev API。",
+    "quantum": "近期学术研究聚焦：Quantum。最新论文涵盖：\"Group-theoretic treatment of strong ligh…\"、\"A Protocol for Shielding-Enhanced Loadin…\"、\"Competing triangular and stripe supersol…\"等。",
+    "robot": "学术热点：Manipulation。代表性论文：\"Towards Surgical World-Action Modeling: A Pre…\"、\"DART-S: Reachability-Audited Active-Suspensio…\"。"
   }
 }
