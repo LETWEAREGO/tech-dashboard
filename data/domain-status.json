@@ -1,7 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T03:12:33.773Z",
+  "lastUpdated": "2026-09-06T02:33:20.174Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.6.0、HuggingFace Transformers v5.16.1、PyTorch v2.13.0。",
-    "lang": "各语言最新稳定版：Rust 1.98.0（2026-08-20）、Node.js v26.8.1（2026-08-26）。Rust Blog 近期文章：Announcing our first Maintainers in Residence、Enabling the next-generation trait solver on nightly。Python Blog 近期文章：RISC-V is now officially supported by CPython!、The Python documentation is now available in Russian!。Go Blog 近期文章：Generic Methods、Go 1.27 is released。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.8.0、HuggingFace Transformers v5.16.1、PyTorch v2.14.0。学术前沿聚焦方向：LLM。",
+    "lang": "各语言最新稳定版：Rust 1.98.1（2026-09-03）、Node.js v26.8.1（2026-08-26）。Rust Blog 近期文章：Announcing Rust 1.98.1、Announcing rustup 1.29.1。Python Blog 近期文章：Python 3.15.0 candidate 2 is here!、RISC-V is now officially supported by CPython!。Go Blog 近期文章：Goroutine Leak Profiles、Generic Methods。",
+    "quantum": "近期学术研究聚焦：Quantum、Entangle、Photon。最新论文涵盖：\"Quantum communication and Bell nonlocali…\"、\"Measurements on the separated subsystems…\"、\"Twin-photon generation in a silicon nitr…\"等。",
+    "robot": "学术热点：Manipulation、Grasping。代表性论文：\"GIFT: Guided Intermediate Feature Training vi…\"、\"Formation Matrix and Energy-based Control of …\"。"
   }
 }
