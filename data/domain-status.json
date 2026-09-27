@@ -1,8 +1,7 @@
 {
-  "lastUpdated": "2026-09-20T03:01:27.468Z",
+  "lastUpdated": "2026-09-27T03:17:28.489Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.16.2、HuggingFace Transformers v5.17.0、PyTorch v2.14.0。",
-    "lang": "各语言最新稳定版：Rust 1.98.1（2026-09-03）、Node.js v26.9.0（2026-09-16）。Rust Blog 近期文章：Be alert: targeted attacks on prominent Rustaceans、Rust debugging survey 2026 results。Python Blog 近期文章：Python 3.15.0 candidate 2 is here!、RISC-V is now officially supported by CPython!。Go Blog 近期文章：Size-Specialized Memory Allocation、Goroutine Leak Profiles。",
-    "robot": "学术热点：Manipulation、VLA。代表性论文：\"Coding Agents with an Obstacle-Aware Harness …\"、\"Workspace Models: Lightweight Robotic Memory …\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.19.2、HuggingFace Transformers v5.17.0、PyTorch v2.14.0。",
+    "lang": "各语言最新稳定版：Rust 1.98.1（2026-09-03）、Node.js v26.10.0（2026-09-22）。Rust Blog 近期文章：Announcing a Maintainer in Residence: Scott Schafer for the Cargo team、GitHub Actions leaking secrets when Miri output is cached。Python Blog 近期文章：The Python documentation is now available in German、The Python documentation is now available in Persian。Go Blog 近期文章：Platform-independent SIMD in Go、Size-Specialized Memory Allocation。"
   }
 }
