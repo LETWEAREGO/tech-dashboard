@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-27T03:17:28.489Z",
+  "lastUpdated": "2026-10-04T03:58:16.169Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.19.2、HuggingFace Transformers v5.17.0、PyTorch v2.14.0。",
-    "lang": "各语言最新稳定版：Rust 1.98.1（2026-09-03）、Node.js v26.10.0（2026-09-22）。Rust Blog 近期文章：Announcing a Maintainer in Residence: Scott Schafer for the Cargo team、GitHub Actions leaking secrets when Miri output is cached。Python Blog 近期文章：The Python documentation is now available in German、The Python documentation is now available in Persian。Go Blog 近期文章：Platform-independent SIMD in Go、Size-Specialized Memory Allocation。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.24.0、HuggingFace Transformers v5.18.0、PyTorch v2.14.1。学术前沿聚焦方向：Agent、Diffusion、Generation。",
+    "lang": "各语言最新稳定版：Rust 1.99.0（2026-10-01）、Node.js v26.10.0（2026-09-22）。Rust Blog 近期文章：Demoting i686 Windows targets to std-only、Announcing Rust 1.99.0。Python Blog 近期文章：Python 3.15.0 candidate 3 is here!、Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!。Go Blog 近期文章：Arch-specific SIMD in Go、Platform-independent SIMD in Go。"
   }
 }
