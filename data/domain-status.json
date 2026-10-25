@@ -1,7 +1,9 @@
 {
-  "lastUpdated": "2026-10-04T03:58:16.169Z",
+  "lastUpdated": "2026-10-25T02:52:41.417Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.24.0、HuggingFace Transformers v5.18.0、PyTorch v2.14.1。学术前沿聚焦方向：Agent、Diffusion、Generation。",
-    "lang": "各语言最新稳定版：Rust 1.99.0（2026-10-01）、Node.js v26.10.0（2026-09-22）。Rust Blog 近期文章：Demoting i686 Windows targets to std-only、Announcing Rust 1.99.0。Python Blog 近期文章：Python 3.15.0 candidate 3 is here!、Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!。Go Blog 近期文章：Arch-specific SIMD in Go、Platform-independent SIMD in Go。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.37.0、HuggingFace Transformers v5.20.2、PyTorch v2.14.1。学术前沿聚焦方向：LLM、Agent、Reinforcement。",
+    "lang": "各语言最新稳定版：Rust 1.99.1（2026-10-16）、Node.js v26.12.1（2026-10-21）。Rust Blog 近期文章：Announcing rustup 1.29.2、Announcing Rust 1.99.1。Python Blog 近期文章：Python 3.15.1, 3.14.9 and 3.13.17 are out、Python 3.16.0 alpha 1 is now available。Go Blog 近期文章：Help set Go's priorities for next year、Interactive refactoring in gopls。",
+    "quantum": "近期学术研究聚焦：Quantum、Simulation。最新论文涵盖：\"What does quantum parameter estimation e…\"、\"Screening strongly correlated materials …\"、\"Mixed State Deep Thermalization under Ge…\"等。",
+    "robot": "代表性论文：\"Sensorimotor Alignment: A Platonic Proxy for …\"、\"OpenTac: An Open Ecosystem for Customizable, …\"。"
   }
 }
