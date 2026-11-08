@@ -1,9 +1,7 @@
 {
-  "lastUpdated": "2026-11-01T03:56:32.448Z",
+  "lastUpdated": "2026-11-08T04:00:34.439Z",
   "domainStatuses": {
-    "ai": "核心开源框架最新版本：OpenAI SDK v3.42.0、HuggingFace Transformers v5.22.1、PyTorch v2.15.0。学术前沿聚焦方向：LLM、Agent、Transformer、Generation。",
-    "lang": "各语言最新稳定版：Rust 1.99.1（2026-10-16）、Node.js v26.13.0（2026-10-28）。Rust Blog 近期文章：How to fund Rust contributors、Announcing rustup 1.29.2。Python Blog 近期文章：Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out、Python 3.15.1, 3.14.9 and 3.13.17 are out。Go Blog 近期文章：Our Response To The eMudhra Key Disclosure Incident、Help set Go's priorities for next year。",
-    "quantum": "近期学术研究聚焦：Quantum、Qubit、Entangle。最新论文涵盖：\"Reconstructing hidden observables via qu…\"、\"Renormalization for Robust Memory withou…\"、\"Comparison of entangling strategies for …\"等。",
-    "robot": "学术热点：Manipulation。代表性论文：\"SwapBot: Tool-Centric Robot Manipulation via …\"、\"SymAnt: Grounding Long-Horizon Action Anticip…\"。"
+    "ai": "核心开源框架最新版本：OpenAI SDK v3.47.0、HuggingFace Transformers v5.22.2、PyTorch v2.15.0。",
+    "lang": "各语言最新稳定版：Rust 1.99.1（2026-10-16）、Node.js v26.13.0（2026-10-28）。Rust Blog 近期文章：Announcing rustup 1.29.3、How to fund Rust contributors。Python Blog 近期文章：Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 and 3.11.18 are out、Python 3.15.1, 3.14.9 and 3.13.17 are out。Go Blog 近期文章：A new Go API for JSON、Our Response To The eMudhra Key Disclosure Incident。"
   }
 }
